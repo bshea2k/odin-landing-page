@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    font-family: 'Roboto';
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 16px;
+}
+
+header img {
+    width: 50px;
+    margin-right: auto;
+}
+
+header a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
