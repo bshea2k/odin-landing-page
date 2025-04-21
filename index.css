@@ -150,3 +150,10 @@ button {
 .banner button {
     border: 2px solid white;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 2%;
+    color: white;
+    text-align: center;
+}
